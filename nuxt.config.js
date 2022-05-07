@@ -7,7 +7,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'nuxt-todoist',
+    title: 'TO DO',
     htmlAttrs: {
       lang: 'en'
     },

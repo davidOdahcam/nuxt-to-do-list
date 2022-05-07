@@ -1,4 +1,4 @@
-# nuxt-todoist
+# nuxt-to-do-list
 
 ## Build Setup
 
